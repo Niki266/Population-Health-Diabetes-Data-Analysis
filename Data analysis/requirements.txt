@@ -1,0 +1,16 @@
+import matplotlib.pyplot as plt 
+The command-style functions in matplotlib.pyplot enable matplotlib to function like MATLAB. Each Pyplot function modifies the figure in some way.
+
+import numpy as np 
+The import NumPy line of code instructs Python to import the NumPy library into your current context. Next, NumPy is instructed to receive the alias of np by Python using the as np section of the code. 
+
+import os 
+The os function allows us to execute a command from within the Python code.
+
+import pandas as pd
+Pandas is imported under the pd alias.
+
+import seaborn as sns
+Python is instructed to add the Seaborn library to the environment by the import seaborn statement in the code. The code's as sns instruction instructs Python to assign Seaborn the alias of sns.
+
+
