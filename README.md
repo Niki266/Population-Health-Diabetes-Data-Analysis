@@ -7,7 +7,7 @@ This project aims to analyze diabetes data to uncover insights related to popula
 - Visualization of relationships between key variables using Python libraries.
 - Insights into diabetes prevalence and potential contributing factors.
 
-## How to Use
+## 🛠️ How to Use
 ### Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook
@@ -65,7 +65,7 @@ Population-Health-Diabetes-Data-Analysis-main
 │   └── requirements.txt        # Python dependencies
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**: Core programming language.
 - **Jupyter Notebook**: Interactive environment for data analysis.
 - **Pandas**: Data manipulation and analysis.
