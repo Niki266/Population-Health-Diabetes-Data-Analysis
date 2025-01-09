@@ -19,7 +19,7 @@ This project aims to analyze diabetes data to uncover insights related to popula
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Population-Health-Diabetes-Data-Analysis-main/Data\ analysis
+   cd Population-Health-Diabetes-Data-Analysis
    ```
 3. Install the dependencies:
    ```bash
